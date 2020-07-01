@@ -6,4 +6,4 @@ export const cannedMessages = [
     'laura ipsum Response'
 ]
 // starts after saying Hi, I am first lastname <firstAgentAutoResponse>
-export const firstAgentAutoResponse = 'From Professional Credit Services.'
+export const firstAgentAutoResponse = 'From Big Things Services.'
